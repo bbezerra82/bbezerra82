@@ -3,7 +3,10 @@
 Welcome to my GitHub profile. Here you can find some of my public work on Alexa skills and also some random stuff. You can find me on the following social media:
 
 - 🐤 bbezerra82
-- ▶️ bbezerra82
+- ▶️  bbezerra82
+- 🐱 bbezerra82
+- 🧶 bbezerra82
+- 📷 bbezerra82
 
 <!--
 **bbezerra82/bbezerra82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
