@@ -8,6 +8,8 @@ Welcome to my GitHub profile. Here you can find some of my public work on Alexa 
 - 🧶 bbezerra82
 - 📷 bbezerra82
 
+![](https://chapa.thecreativetoken.com/u/bbezerra82/badge.svg?v=2026-02-25T19%3A42%3A53.860Z)
+
 <!--
 **bbezerra82/bbezerra82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
